@@ -1,4 +1,5 @@
 # Self-Organizing Maps
+[Please refer to the report [here](https://github.com/anshulrao/som/blob/master/files/Report.pdf) for a more thorough dive into the project.]
 
 
 1. [DEMO](https://github.com/anshulrao/som/blob/master/notebooks/DEMO.ipynb): A simple implementation of the algorithm in Python. I randomly generated 1k 
